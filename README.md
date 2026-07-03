@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my skills.<br>👯 I’m looking to collaborate on machine learning project and Full Stack Projects.<br>🤝 I’m looking for help with machine learning things<br>🌱 I’m currently learning deep learning and Neural Network.<br>💬 Ask me about ML and AI.<br>⚡ Fun fact -I like to travel.
+🔭 Consultant @ Quation Solutions | Python | SQL | Business Insights.<br>👯 I’m looking to collaborate on machine learning project.<br>🤝 I’m looking for help with machine learning things<br>🌱 I’m currently learning deep learning and Neural Network.<br>💬 Ask me about ML and AI.<br>⚡ Fun fact -I like to travel.
 
 
 ## 🌐 Socials:
